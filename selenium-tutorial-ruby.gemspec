@@ -28,4 +28,5 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "watir", '~> 6.16'
+  spec.add_dependency "webdrivers", '~> 4.0'
 end
